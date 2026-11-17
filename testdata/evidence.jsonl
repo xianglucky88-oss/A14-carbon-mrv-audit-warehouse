@@ -1,0 +1,2 @@
+{"evidence_id":"EV-ELEC-001","facility_id":"FAC-01","period_start_ms":1767225600000,"period_end_ms":1767484800000,"activity_type":"electricity","value":100.0,"unit":"MWh","supplier":"utility-a","evidence_hash":"sha256:demo-electricity","received_at_ms":1767490000000}
+{"evidence_id":"EV-GAS-001","facility_id":"FAC-01","period_start_ms":1767225600000,"period_end_ms":1767484800000,"activity_type":"natural_gas","value":5000.0,"unit":"kWh","supplier":"gas-a","evidence_hash":"sha256:demo-gas","received_at_ms":1767490000000}

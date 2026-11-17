@@ -1,0 +1,2 @@
+{"factor_id":"EF-ELEC-CN-2025","activity_type":"electricity","factor_value":0.5703,"factor_unit":"kgCO2e/kWh","version":"2025.1","effective_from_ms":1735689600000,"source":"demo-grid-factor"}
+{"factor_id":"EF-GAS-2025","activity_type":"natural_gas","factor_value":0.1810,"factor_unit":"kgCO2e/kWh","version":"2025.1","effective_from_ms":1735689600000,"source":"demo-gas-factor"}
